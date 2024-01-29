@@ -14,7 +14,7 @@ pipeline {
   stages {
     stage("Git Staging") {
         steps{
-                checkout([$class: 'GitSCM', branches: [[name: '*/master']], extensions: [], userRemoteConfigs: [[credentialsId: 'none', url: 'https://github.com/swapnil2596/iotbackend.git']]])
+                checkout([$class: 'GitSCM', branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'none', url: 'https://github.com/swapnil2596/iotbackend.git']]])
             }
     }
      // Create Iamge of the Project
