@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 1b4048af992d0ab9cf77b7cb57ffe920865f0599 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705923157 +0530	clone: from https://gitlab.sutradhar.tech/aditi.deshpande/iotbackend.git
+1b4048af992d0ab9cf77b7cb57ffe920865f0599 ea784a9ffd29a1369d7ec432b2b8feff01ce278c Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986216 +0530	commit: Kube configurations added
+ea784a9ffd29a1369d7ec432b2b8feff01ce278c 9cbcc1227f8562b0c90664a9cbabe435d1236402 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986434 +0530	commit: Jenkins File changes in variable name
+9cbcc1227f8562b0c90664a9cbabe435d1236402 48bf8449c82a3c1eb4767715cfab849fda2d03ea Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986573 +0530	commit: JF
+48bf8449c82a3c1eb4767715cfab849fda2d03ea 1ba61207a83d4eee415a4bd8711517afa8a06101 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986662 +0530	commit: JF1
+1ba61207a83d4eee415a4bd8711517afa8a06101 0561dfd5051e09661090f646d841316e24b980b9 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986734 +0530	commit: Docker changes
+0561dfd5051e09661090f646d841316e24b980b9 b6d43515ba4783dec2d82eaf827c440ea79b8e52 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986826 +0530	commit: Requirements chages
+b6d43515ba4783dec2d82eaf827c440ea79b8e52 815a6241e4d3d6e6e6090768693c915f12814787 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705986986 +0530	commit: TYaml
+815a6241e4d3d6e6e6090768693c915f12814787 5ee3c8af3b9380260a01a2153ad97b92752b0ae7 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705987017 +0530	commit: f
+5ee3c8af3b9380260a01a2153ad97b92752b0ae7 f80aef344f12802fd51a3a6b5e84422254499d8a Kaushik Koparkar <kaushik@sutradhar.co.in> 1705987685 +0530	commit: IOT
+f80aef344f12802fd51a3a6b5e84422254499d8a 145f8f6b15c0399d81968648ef0bc117aa88439a Kaushik Koparkar <kaushik@sutradhar.co.in> 1705988054 +0530	commit: iot-backend
+145f8f6b15c0399d81968648ef0bc117aa88439a 3301d676ca51f911063f8e3dd520e9a4694a92cf Kaushik Koparkar <kaushik@sutradhar.co.in> 1705988319 +0530	commit: OIT
+3301d676ca51f911063f8e3dd520e9a4694a92cf ab4a1ff5560fd64fa99447749e269e558bde1b95 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705988461 +0530	commit: IOT
+ab4a1ff5560fd64fa99447749e269e558bde1b95 df65fa63bb9bdf96dd6524c8e114e8fa74539509 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705989112 +0530	commit: A
+df65fa63bb9bdf96dd6524c8e114e8fa74539509 9887f0f34e0f38bcab74e3f1c1c971b3c58114e6 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705989265 +0530	commit: l
+9887f0f34e0f38bcab74e3f1c1c971b3c58114e6 faf8d854c79b685425c2c887a400f57a0b36a273 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705989424 +0530	commit: A
+faf8d854c79b685425c2c887a400f57a0b36a273 aa74a627cc9c25fb7d76e253e478652f39ab62e3 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705990078 +0530	commit: Docker
+aa74a627cc9c25fb7d76e253e478652f39ab62e3 590db6b2121f6cb893b0f29e96cbcbc1aaa8dfe2 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705990453 +0530	commit: s
+590db6b2121f6cb893b0f29e96cbcbc1aaa8dfe2 9262c8d64cb4eba261bedc4d4ab98e3424886db2 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705991001 +0530	commit: Sett
+9262c8d64cb4eba261bedc4d4ab98e3424886db2 8aa6fac5adb786ca4cdb52e0b1f21a6d8a3e20f9 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705991608 +0530	commit: IOT
+8aa6fac5adb786ca4cdb52e0b1f21a6d8a3e20f9 6b9b26223c729933bdc34a66d9665cb54b575350 Kaushik Koparkar <kaushik@sutradhar.co.in> 1705992318 +0530	commit: Docker
+6b9b26223c729933bdc34a66d9665cb54b575350 39841dd3ed747067d37c1976c56ce994079d2c0a Kaushik Koparkar <kaushik@sutradhar.co.in> 1705992460 +0530	commit: Gunicorn
