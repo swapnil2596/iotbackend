@@ -1,6 +1,6 @@
 pipeline {
     environment {
-    imagename = "iotbackend2-uat"
+    imagename = "iotbackend1-uat"
     registryCredential = 'swapnil257-dockerhub'
     dockerImage = ''
     jenkinsProject = 'iotbackend1-uat'
@@ -14,7 +14,7 @@ pipeline {
   stages {
     stage("Git Staging") {
         steps{
-                checkout([$class: 'GitSCM', branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'none', url: 'https://github.com/swapnil2596/iotbackend.git']]])
+                checkout([$class: 'GitSCM', branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'ubuntu', url: 'https://github.com/swapnil2596/iotbackend.git']]])
             }
     }
      // Create Iamge of the Project
