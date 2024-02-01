@@ -1,7 +1,7 @@
 pipeline {
     environment {
     imagename = "iotbackend1-uat"
-    registryCredential = 'swapnil257-dockerhub'
+    registryCredential = 'swapnil-dockerhub'
     dockerImage = ''
     jenkinsProject = 'iotbackend1-uat'
     yamlFIleName = 'iotbackend'
